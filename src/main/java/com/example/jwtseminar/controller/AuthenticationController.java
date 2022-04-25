@@ -11,6 +11,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 
+/**
+ *
+ * @author dunglv
+ */
 @RestController
 @RequestMapping( "/authenticate")
 public class AuthenticationController {

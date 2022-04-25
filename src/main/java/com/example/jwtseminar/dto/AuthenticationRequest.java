@@ -9,6 +9,11 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+
+/**
+ *
+ * @author dunglv
+ */
 public class AuthenticationRequest {
     private String username;
     private String password;

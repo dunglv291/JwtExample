@@ -10,6 +10,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
+/**
+ *
+ * @author dunglv
+ */
 @Service
 public class JwtUtil {
     private String SECRET_KEY = "secret";
